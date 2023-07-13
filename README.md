@@ -2,7 +2,7 @@
   [![Spotify](https://destroyer-32.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/zgz9ua5ggfxqktbyl9vjj93gb)
 </div>
 
-<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/DESTROYER-32/DESTROYER-32/main/Hey.gif" width="30px">, I'm ∂єѕтяσуєя32</h1>
+<h1 align="center">Hey!<img src="https://raw.githubusercontent.com/DESTROYER-32/DESTROYER-32/main/Hey.gif" width="30px">, I'm ∂єѕтяσуєя32</h1>
 <h3 align="center">Just A Noob Who Loves To Learn And Experiment New Things.</h3>
 
 <p align="left">
