@@ -1,7 +1,7 @@
 &nbsp;<div align="center">
   [![Spotify](https://destroyer-32.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/zgz9ua5ggfxqktbyl9vjj93gb)
 </div>
-<iframe height="80px" width="300px" frameborder="0" src=https://livecounts.io/embed/youtube-live-subscriber-counter/UCCZdWq0MVCzUt7LVr2asQGw style="border: 0; width:300px; height:80px;"></iframe>
+
 <h1 align="center">Hey!<img src="https://raw.githubusercontent.com/DESTROYER-32/DESTROYER-32/main/Hey.gif" width="30px">, I'm ∂єѕтяσуєя32</h1>
 <h3 align="center">Just A Noob Who Loves To Learn And Experiment New Things.</h3>
 
