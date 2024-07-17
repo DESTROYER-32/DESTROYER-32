@@ -28,7 +28,7 @@
 - <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/linux_rounded.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[DESTROYER-32](https://t.me/DESTRO_YER32)**<br>
 - <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/hyperkitty.gif?raw=true" width="25" /> &nbsp; My Organization: **[METAPROJECTS](https://github.com/MetaButler)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Our Website: **[Atlas-Projects](https://www.atlas-projects.xyz)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Website: **[Atlas-Projects](https://www.atlas-projects.xyz)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The real name for a hashtag is an octothorpe.<br>
 
 <div align="center" >
