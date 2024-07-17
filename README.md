@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/DESTROYER-32" alt="Hello Coders" width="70%"/> <br>
 <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/DESTROYER-32" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>gσ нαя∂ σя gσ нσмє.
@@ -29,7 +28,7 @@
 - <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/linux_rounded.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[DESTROYER-32](https://t.me/DESTRO_YER32)**<br>
 - <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/hyperkitty.gif?raw=true" width="25" /> &nbsp; My Organization: **[METAPROJECTS](https://github.com/MetaButler)**<br>
-- <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/lightening.gif?raw=true" width="25" /> &nbsp; Our Website: **[Atlas-Projects](https://www.atlas-projects.xyz)**<br>
+- <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/lightning.gif?raw=true" width="25" /> &nbsp; Our Website: **[Atlas-Projects](https://www.atlas-projects.xyz)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The real name for a hashtag is an octothorpe.<br>
 
 <div align="center" >
