@@ -3,13 +3,9 @@
 <img src="https://github.com/DESTROYER-32/DESTROYER-32/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/DESTROYER-32" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <p><strong>gσ нαя∂ σя gσ нσмє.
-<br><br> Vibing to : 🎧  </strong></p>
-
-[![Spotify](https://novatorem-destroyer32s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/zgz9ua5ggfxqktbyl9vjj93gb) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=DESTROYER-32&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDESTROYER-32&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![telegram badge](https://img.shields.io/badge/DESTROYER-32-grey?style=flat&logo=telegram)](https://t.me/DESTRO_YER32) <br>
 </div>
 
